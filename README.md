@@ -1,3 +1,3 @@
 # React.js
 
-This repository will contains basics and examples of React.js
+This repository will contain basics and examples of React.js
