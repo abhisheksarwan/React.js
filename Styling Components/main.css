@@ -1,0 +1,14 @@
+.machine {
+    border: 5px Solid Blue;
+    margin-bottom: 10px;
+    width: 100px;
+    text-align: center;
+}
+
+.win {
+    color:green;
+}
+
+.lose {
+    color:red;
+}
