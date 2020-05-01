@@ -9,6 +9,7 @@ this.setState(st => {
 //mutating an array the right way
 
 this.setState(st => {
+    let newItem = "something";
     return {
         nums: [...this.state.nums, newItem]
     }
