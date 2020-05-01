@@ -10,7 +10,7 @@ this.setState(st => {
 
 this.setState(st => {
     return {
-        nums: [...this.State.nums, newItem]
+        nums: [...this.state.nums, newItem]
     }
 })
 
