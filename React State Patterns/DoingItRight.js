@@ -1,5 +1,5 @@
 //setting state the right way using a callback
-//old tstae is available via calback st.property
+//old state available via calback st.property
 //NEVER change the STATE DIRECTLY!
 
 this.setState(st => {
